@@ -26,7 +26,7 @@ A responsive front-end clone of Spotify built using **HTML**, **CSS**, and **Jav
 
 ## 🚀 Live Preview
 
-🔗 [Click here to view the project](https://<your-username>.github.io/<repo-name>/)
+🔗 [Click here to view the project]( https://parth0904.github.io/Spotify/)
 
 > *(Make sure GitHub Pages is enabled for your repo)*
 
